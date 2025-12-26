@@ -79,12 +79,12 @@ cd hand-gesture-recognition
 ```
 
 ### 2️⃣ Install Required Libraries
-```
+```bash
 pip install opencv-python mediapipe
 ```
 
 ### 3️⃣ Run the Program
-```
-3️⃣ Run the Program
+```bash
+python main.py
 ```
 Press q to exit the application
