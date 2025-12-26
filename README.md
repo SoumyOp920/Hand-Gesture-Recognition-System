@@ -74,7 +74,7 @@ This ensures smooth execution of the system.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/SoumyOp920/hand-gesture-recognition.git
+git clone https://github.com/SoumyOp920/Hand-Gesture-Recognition-System.git
 cd hand-gesture-recognition
 ```
 
